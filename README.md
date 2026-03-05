@@ -5,3 +5,4 @@ margify
 base
 sonieum
 soso
+termman
