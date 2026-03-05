@@ -6,5 +6,5 @@ base
 sonieum
 soso
 termman
-sunrise
+sunrises
 solstices
