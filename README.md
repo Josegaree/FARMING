@@ -7,4 +7,4 @@ sonieum
 soso
 termman
 sunrise
-solstice
+solstices
