@@ -24,3 +24,4 @@ edgen
 primax
 genius
 midea
+tides
