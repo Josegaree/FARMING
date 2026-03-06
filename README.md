@@ -17,3 +17,4 @@ conduit
 caldera
 katana
 LZ
+metamask
