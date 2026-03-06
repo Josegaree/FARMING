@@ -19,3 +19,4 @@ katana
 LZ
 metamask
 opensea
+LAB
