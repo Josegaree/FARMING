@@ -21,3 +21,4 @@ metamask
 opensea
 LAB
 edgen
+primax
