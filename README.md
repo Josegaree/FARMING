@@ -20,3 +20,4 @@ LZ
 metamask
 opensea
 LAB
+edgen
