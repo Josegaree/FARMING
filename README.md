@@ -8,3 +8,4 @@ soso
 termman
 sunrises
 solstices
+relay
