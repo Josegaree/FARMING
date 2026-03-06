@@ -18,3 +18,4 @@ caldera
 katana
 LZ
 metamask
+opensea
