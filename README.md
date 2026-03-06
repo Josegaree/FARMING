@@ -22,3 +22,4 @@ opensea
 LAB
 edgen
 primax
+genius
