@@ -23,3 +23,4 @@ LAB
 edgen
 primax
 genius
+midea
