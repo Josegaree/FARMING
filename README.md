@@ -1,5 +1,5 @@
 # FARMING
-Projects interracting
+Project interracting
 nansen
 margify
 base
