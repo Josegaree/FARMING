@@ -1,7 +1,7 @@
 # FARMING
 Project interracting
 nansen
-margify
+margifies
 base
 sonieum
 soso
