@@ -7,7 +7,7 @@ sonieums
 sosos
 termmans
 sunrises
-solstice
+solstices
 relay
 mayan
 jumper
