@@ -2,7 +2,7 @@
 Project interracting
 nansens
 margifies
-base
+bases
 sonieum
 soso
 termman
