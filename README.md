@@ -3,7 +3,7 @@ Project interracting
 nansens
 margifies
 bases
-sonieum
+sonieums
 soso
 termman
 sunrises
