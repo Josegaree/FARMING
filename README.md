@@ -6,7 +6,7 @@ bases
 sonieums
 sosos
 termmans
-sunrises
+sunrise
 solstices
 relay
 mayan
