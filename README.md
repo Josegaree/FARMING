@@ -5,7 +5,7 @@ margifies
 bases
 sonieums
 sosos
-termman
+termmans
 sunrises
 solstices
 relay
