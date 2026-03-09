@@ -21,7 +21,7 @@ metamask
 opensea
 LAB
 edgen
-primaxs
+primax
 geniuz
 mideas
 tidez
