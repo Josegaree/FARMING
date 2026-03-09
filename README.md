@@ -15,7 +15,7 @@ bungee
 polymer
 conduit
 caldera
-katanas
+katana
 LZs
 metamasks
 openseas
