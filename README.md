@@ -19,7 +19,7 @@ katanas
 LZs
 metamasks
 openseas
-LAB
+LABs
 edgen
 primax
 genius
