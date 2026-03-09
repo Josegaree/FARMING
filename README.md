@@ -20,7 +20,7 @@ LZs
 metamasks
 openseas
 LABs
-edgen
+edgens
 primax
 genius
 midea
