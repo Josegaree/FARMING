@@ -20,7 +20,7 @@ LZ
 metamask
 opensea
 LAB
-edgens
+edgen
 primaxs
 geniuz
 mideas
