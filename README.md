@@ -23,7 +23,7 @@ LAB
 edgen
 primax
 geniu
-mideas
+midea
 tidez
 arcs
 tempos
