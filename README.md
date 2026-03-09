@@ -24,7 +24,7 @@ edgens
 primaxs
 genius
 mideas
-tides
+tidez
 arc
 tempo
 EXTENDED
