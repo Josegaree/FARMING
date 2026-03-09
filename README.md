@@ -12,7 +12,7 @@ relay
 mayan
 jumper
 bungee
-polymers
+polymer
 conduits
 calderas
 katanas
