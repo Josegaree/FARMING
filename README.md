@@ -10,7 +10,7 @@ sunrises
 solstices
 relays
 mayans
-jumper
+jumpers
 bungee
 polymer
 conduit
