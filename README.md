@@ -8,7 +8,7 @@ soso
 termman
 sunrise
 solstice
-relays
+relay
 mayans
 jumpers
 bungees
