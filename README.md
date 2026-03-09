@@ -14,7 +14,7 @@ jumpers
 bungees
 polymers
 conduits
-caldera
+calderas
 katana
 LZ
 metamask
