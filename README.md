@@ -17,7 +17,7 @@ conduit
 caldera
 katana
 LZs
-metamasks
+metamask
 openseas
 LABs
 edgens
