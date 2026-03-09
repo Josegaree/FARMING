@@ -9,7 +9,7 @@ termmans
 sunrises
 solstices
 relays
-mayan
+mayans
 jumper
 bungee
 polymer
