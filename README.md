@@ -7,7 +7,7 @@ sonieum
 soso
 termman
 sunrise
-solstices
+solstice
 relays
 mayans
 jumpers
