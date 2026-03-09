@@ -13,7 +13,7 @@ mayan
 jumper
 bungee
 polymer
-conduits
+conduit
 calderas
 katanas
 LZs
