@@ -13,7 +13,7 @@ mayans
 jumpers
 bungees
 polymers
-conduit
+conduits
 caldera
 katana
 LZ
