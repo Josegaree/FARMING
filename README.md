@@ -27,4 +27,4 @@ midea
 tide
 arc
 tempo
-EXTENDED
+EXTENDEDs
