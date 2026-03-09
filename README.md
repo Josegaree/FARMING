@@ -25,6 +25,6 @@ primaxs
 geniuz
 mideas
 tidez
-arc
+arcs
 tempo
 EXTENDED
