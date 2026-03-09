@@ -19,7 +19,7 @@ katana
 LZ
 metamask
 opensea
-LABs
+LAB
 edgens
 primaxs
 geniuz
