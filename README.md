@@ -23,7 +23,7 @@ LABs
 edgens
 primaxs
 genius
-midea
+mideas
 tides
 arc
 tempo
