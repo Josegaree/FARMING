@@ -1,5 +1,5 @@
 # FARMING
-Project interractings
+Project interracting
 nansen
 margifie
 bases
