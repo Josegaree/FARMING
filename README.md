@@ -21,7 +21,7 @@ metamasks
 openseas
 LABs
 edgens
-primax
+primaxs
 genius
 midea
 tides
