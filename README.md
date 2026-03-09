@@ -18,7 +18,7 @@ calderas
 katanas
 LZs
 metamasks
-opensea
+openseas
 LAB
 edgen
 primax
