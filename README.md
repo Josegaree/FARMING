@@ -22,7 +22,7 @@ openseas
 LABs
 edgens
 primaxs
-genius
+geniuz
 mideas
 tidez
 arc
