@@ -26,5 +26,5 @@ geniuz
 mideas
 tidez
 arcs
-tempo
+tempos
 EXTENDED
