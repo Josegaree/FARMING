@@ -18,7 +18,7 @@ caldera
 katana
 LZ
 metamask
-openseas
+opensea
 LABs
 edgens
 primaxs
