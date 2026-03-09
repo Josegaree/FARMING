@@ -4,7 +4,7 @@ nansen
 margifie
 base
 sonieum
-sosos
+soso
 termmans
 sunrises
 solstices
