@@ -1,6 +1,6 @@
 # FARMING
 Project interractings
-nansens
+nansen
 margifies
 bases
 sonieums
