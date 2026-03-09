@@ -10,7 +10,7 @@ sunrise
 solstice
 relay
 mayan
-jumpers
+jumper
 bungees
 polymers
 conduits
