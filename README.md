@@ -22,7 +22,7 @@ opensea
 LAB
 edgen
 primax
-geniuz
+geniu
 mideas
 tidez
 arcs
