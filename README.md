@@ -27,4 +27,4 @@ mideas
 tidez
 arcs
 tempos
-EXTENDEDs
+EXTENDED
