@@ -24,7 +24,7 @@ edgen
 primax
 geniu
 midea
-tidez
+tide
 arcs
 tempos
 EXTENDED
