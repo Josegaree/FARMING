@@ -16,7 +16,7 @@ polymers
 conduits
 calderas
 katanas
-LZ
+LZs
 metamask
 opensea
 LAB
