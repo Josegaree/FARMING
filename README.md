@@ -14,7 +14,7 @@ jumper
 bungee
 polymer
 conduit
-calderas
+caldera
 katanas
 LZs
 metamasks
