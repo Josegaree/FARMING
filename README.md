@@ -25,6 +25,6 @@ primax
 geniu
 midea
 tide
-arcs
+arc
 tempos
 EXTENDED
