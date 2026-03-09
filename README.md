@@ -8,7 +8,7 @@ sosos
 termmans
 sunrises
 solstices
-relay
+relays
 mayan
 jumper
 bungee
