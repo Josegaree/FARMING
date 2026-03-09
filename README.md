@@ -26,5 +26,5 @@ geniu
 midea
 tide
 arc
-tempos
+tempo
 EXTENDED
